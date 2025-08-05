@@ -1,0 +1,12 @@
+# Blender 3.6.1 MTL File: 'wraith.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd E:/blender/Uploads fo Sketchfab/wraith/textures/wraith-layer-1.png
+map_d E:/blender/Uploads fo Sketchfab/wraith/textures/wraith-opacity-layer-1.png
